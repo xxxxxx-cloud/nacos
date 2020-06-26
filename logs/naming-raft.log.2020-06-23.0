@@ -1,0 +1,584 @@
+2020-06-23 08:44:46,751 INFO raft peers changed: [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 08:44:46,848 INFO initializing Raft sub-system
+
+2020-06-23 08:44:46,848 INFO raft notifier started
+
+2020-06-23 08:44:46,848 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-06-23 08:44:46,862 INFO cache loaded, datum count: 0, current term: 0
+
+2020-06-23 08:44:46,862 INFO finish to load data from disk, cost: 14 ms.
+
+2020-06-23 08:44:46,887 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-06-23 08:44:49,226 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","term":0,"leaderDueMs":15424,"heartbeatDueMs":4500,"state":"FOLLOWER"}, term: 0
+
+2020-06-23 08:44:49,354 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-06-23 08:44:49,422 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-06-23 08:52:08,373 INFO raft peers changed: [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 08:52:08,469 INFO initializing Raft sub-system
+
+2020-06-23 08:52:08,470 INFO raft notifier started
+
+2020-06-23 08:52:08,470 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2020-06-23 08:52:08,475 INFO cache loaded, datum count: 0, current term: 0
+
+2020-06-23 08:52:08,475 INFO finish to load data from disk, cost: 6 ms.
+
+2020-06-23 08:52:08,501 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-06-23 08:52:10,750 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-06-23 08:52:10,811 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-06-23 08:55:27,118 INFO raft peers changed: [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 08:55:27,217 INFO initializing Raft sub-system
+
+2020-06-23 08:55:27,217 INFO raft notifier started
+
+2020-06-23 08:55:27,218 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2020-06-23 08:55:27,223 INFO cache loaded, datum count: 0, current term: 0
+
+2020-06-23 08:55:27,223 INFO finish to load data from disk, cost: 6 ms.
+
+2020-06-23 08:55:27,246 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-06-23 08:55:29,415 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-06-23 08:55:29,479 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-06-23 09:03:32,290 INFO raft peers changed: [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 09:03:32,383 INFO initializing Raft sub-system
+
+2020-06-23 09:03:32,384 INFO raft notifier started
+
+2020-06-23 09:03:32,384 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-06-23 09:03:32,389 INFO cache loaded, datum count: 0, current term: 0
+
+2020-06-23 09:03:32,389 INFO finish to load data from disk, cost: 5 ms.
+
+2020-06-23 09:03:32,419 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-06-23 09:03:34,748 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-06-23 09:03:34,819 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-06-23 09:07:07,121 INFO add listener: com.alibaba.nacos.naming.iplist.develop##GATEWAY-SERVER@@GATEWAY-SERVER
+
+2020-06-23 09:27:17,420 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@GATEWAY-SERVER
+
+2020-06-23 09:29:24,820 INFO add task com.alibaba.nacos.naming.domains.meta.develop##GATEWAY-SERVER@@GATEWAY-SERVER
+
+2020-06-23 09:29:24,820 INFO remove task com.alibaba.nacos.naming.domains.meta.develop##GATEWAY-SERVER@@GATEWAY-SERVER
+
+2020-06-23 09:29:24,820 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.develop##GATEWAY-SERVER@@GATEWAY-SERVER
+
+2020-06-23 09:29:24,825 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.develop##GATEWAY-SERVER@@GATEWAY-SERVER, term=0
+
+2020-06-23 09:29:24,825 INFO add task com.alibaba.nacos.naming.iplist.develop##GATEWAY-SERVER@@GATEWAY-SERVER
+
+2020-06-23 09:29:24,825 INFO data removed, key=com.alibaba.nacos.naming.iplist.develop##GATEWAY-SERVER@@GATEWAY-SERVER, term=0
+
+2020-06-23 09:29:24,829 INFO remove task com.alibaba.nacos.naming.iplist.develop##GATEWAY-SERVER@@GATEWAY-SERVER
+
+2020-06-23 11:27:42,591 INFO raft peers changed: [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 11:27:42,686 INFO initializing Raft sub-system
+
+2020-06-23 11:27:42,687 INFO raft notifier started
+
+2020-06-23 11:27:42,687 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2020-06-23 11:27:42,696 INFO cache loaded, datum count: 0, current term: 0
+
+2020-06-23 11:27:42,696 INFO finish to load data from disk, cost: 10 ms.
+
+2020-06-23 11:27:42,720 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-06-23 11:27:45,080 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-06-23 11:27:45,153 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-06-23 11:33:02,268 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 11:33:27,071 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@GATEWAY-SERVER
+
+2020-06-23 11:34:12,867 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 12:33:38,513 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","term":0,"leaderDueMs":19644,"heartbeatDueMs":5000,"state":"FOLLOWER"}, term: 0
+
+2020-06-23 12:33:38,514 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":1,"leaderDueMs":18713,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 1
+
+2020-06-23 12:33:38,514 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":2,"leaderDueMs":17439,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 2
+
+2020-06-23 12:33:38,515 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":3,"leaderDueMs":16963,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 3
+
+2020-06-23 12:33:38,515 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":4,"leaderDueMs":19455,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 4
+
+2020-06-23 13:26:34,532 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":5,"leaderDueMs":15470,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 5
+
+2020-06-23 13:26:34,532 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":6,"leaderDueMs":19416,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 6
+
+2020-06-23 13:26:34,532 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":7,"leaderDueMs":15909,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 7
+
+2020-06-23 13:26:34,533 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":8,"leaderDueMs":17059,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 8
+
+2020-06-23 13:26:34,533 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":9,"leaderDueMs":17372,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 9
+
+2020-06-23 13:26:34,533 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":10,"leaderDueMs":18213,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 10
+
+2020-06-23 13:26:34,533 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":11,"leaderDueMs":16734,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 11
+
+2020-06-23 13:26:34,533 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":12,"leaderDueMs":16417,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 12
+
+2020-06-23 13:26:34,533 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":13,"leaderDueMs":19500,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 13
+
+2020-06-23 13:26:34,533 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":14,"leaderDueMs":19201,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 14
+
+2020-06-23 13:26:34,534 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":15,"leaderDueMs":18988,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 15
+
+2020-06-23 13:26:34,534 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":16,"leaderDueMs":19899,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 16
+
+2020-06-23 13:26:34,534 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":17,"leaderDueMs":18616,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 17
+
+2020-06-23 13:26:34,534 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":18,"leaderDueMs":15431,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 18
+
+2020-06-23 13:26:34,534 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":19,"leaderDueMs":19531,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 19
+
+2020-06-23 13:26:34,534 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":20,"leaderDueMs":19963,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 20
+
+2020-06-23 13:26:34,535 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":21,"leaderDueMs":17181,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 21
+
+2020-06-23 13:26:34,535 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":22,"leaderDueMs":19103,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 22
+
+2020-06-23 13:26:34,535 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":23,"leaderDueMs":18412,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 23
+
+2020-06-23 13:26:34,535 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":24,"leaderDueMs":19336,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 24
+
+2020-06-23 13:26:34,535 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":25,"leaderDueMs":15163,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 25
+
+2020-06-23 13:26:34,535 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":26,"leaderDueMs":19815,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 26
+
+2020-06-23 13:26:34,535 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":27,"leaderDueMs":16414,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 27
+
+2020-06-23 13:26:34,535 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":28,"leaderDueMs":18198,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 28
+
+2020-06-23 13:26:35,513 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":29,"leaderDueMs":16915,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 29
+
+2020-06-23 13:26:44,952 INFO leader timeout, start voting,leader: {"ip":"192.168.99.1:8848","term":0,"leaderDueMs":17055,"heartbeatDueMs":5000,"state":"FOLLOWER"}, term: 0
+
+2020-06-23 13:26:44,955 INFO received illegitimate vote, voter-term:1, votee-term:1
+
+2020-06-23 13:26:44,975 INFO received approve from peer: {"ip":"192.168.99.1:8848","voteFor":"192.168.99.1:8848","term":1,"leaderDueMs":17055,"heartbeatDueMs":5000,"state":"CANDIDATE"}
+
+2020-06-23 13:26:49,678 INFO [RAFT] invalid state from master, state: CANDIDATE, remote peer: {"ip":"192.168.99.1:8848","voteFor":"192.168.99.1:8848","term":1,"leaderDueMs":19735,"heartbeatDueMs":5000,"state":"CANDIDATE"}
+
+2020-06-23 13:26:49,691 ERROR NACOS-RAFT beat failed: caused: invalid state from master, state: CANDIDATE;, peer: 192.168.8.184:8848
+
+2020-06-23 13:26:54,689 INFO [RAFT] invalid state from master, state: CANDIDATE, remote peer: {"ip":"192.168.99.1:8848","voteFor":"192.168.99.1:8848","term":1,"leaderDueMs":15340,"heartbeatDueMs":5000,"state":"CANDIDATE"}
+
+2020-06-23 13:26:54,691 ERROR NACOS-RAFT beat failed: caused: invalid state from master, state: CANDIDATE;, peer: 192.168.8.184:8848
+
+2020-06-23 13:26:59,707 INFO [RAFT] invalid state from master, state: CANDIDATE, remote peer: {"ip":"192.168.99.1:8848","voteFor":"192.168.99.1:8848","term":1,"leaderDueMs":16838,"heartbeatDueMs":5000,"state":"CANDIDATE"}
+
+2020-06-23 13:26:59,709 ERROR NACOS-RAFT beat failed: caused: invalid state from master, state: CANDIDATE;, peer: 192.168.8.184:8848
+
+2020-06-23 13:27:04,716 INFO [RAFT] invalid state from master, state: CANDIDATE, remote peer: {"ip":"192.168.99.1:8848","voteFor":"192.168.99.1:8848","term":1,"leaderDueMs":15416,"heartbeatDueMs":5000,"state":"CANDIDATE"}
+
+2020-06-23 13:27:04,718 ERROR NACOS-RAFT beat failed: caused: invalid state from master, state: CANDIDATE;, peer: 192.168.8.184:8848
+
+2020-06-23 13:27:09,727 INFO [RAFT] invalid state from master, state: CANDIDATE, remote peer: {"ip":"192.168.99.1:8848","voteFor":"192.168.99.1:8848","term":1,"leaderDueMs":18409,"heartbeatDueMs":5000,"state":"CANDIDATE"}
+
+2020-06-23 13:27:09,728 ERROR NACOS-RAFT beat failed: caused: invalid state from master, state: CANDIDATE;, peer: 192.168.8.184:8848
+
+2020-06-23 13:27:15,739 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:27:20,746 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:27:25,755 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:27:30,765 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:27:35,778 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:27:40,789 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:27:45,803 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:27:50,810 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:27:55,821 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:28:00,832 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:28:05,843 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:28:10,852 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:28:15,860 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:28:20,875 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:28:25,889 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:28:30,898 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:28:35,908 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:28:40,921 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:28:45,934 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:28:50,939 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:28:55,953 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:29:00,969 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:29:05,979 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:29:10,985 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:29:15,993 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:29:21,014 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:29:26,016 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:29:31,034 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:29:36,033 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:29:41,046 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:29:46,057 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:29:51,068 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:29:56,079 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:30:01,089 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:30:06,098 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:30:11,104 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:30:16,123 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:30:21,138 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:30:26,144 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:30:31,162 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:30:36,165 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:30:41,179 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:30:46,188 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:30:51,202 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:30:56,218 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:31:01,228 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:31:06,245 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:31:11,256 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:31:16,270 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:31:21,282 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:31:26,297 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:31:31,307 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:31:36,322 ERROR NACOS-RAFT beat failed: , peer: 192.168.99.1:8848
+
+2020-06-23 13:32:13,428 INFO raft peers changed: [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 13:32:13,526 INFO initializing Raft sub-system
+
+2020-06-23 13:32:13,527 INFO raft notifier started
+
+2020-06-23 13:32:13,527 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-06-23 13:32:13,534 INFO cache loaded, datum count: 0, current term: 0
+
+2020-06-23 13:32:13,534 INFO finish to load data from disk, cost: 7 ms.
+
+2020-06-23 13:32:13,558 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-06-23 13:32:15,814 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-06-23 13:32:15,877 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-06-23 13:32:24,491 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@GATEWAY-SERVER
+
+2020-06-23 13:32:24,491 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 13:32:24,491 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 13:48:05,890 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 13:48:05,890 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 13:48:05,890 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 13:48:05,901 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2, term=0
+
+2020-06-23 13:48:05,902 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 13:48:05,902 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2, term=0
+
+2020-06-23 13:48:05,904 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 13:49:05,878 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 13:49:05,878 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 13:49:05,878 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 13:49:05,886 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1, term=0
+
+2020-06-23 13:49:05,887 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 13:49:05,887 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1, term=0
+
+2020-06-23 13:49:05,887 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 13:49:12,051 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 13:49:32,910 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 13:51:05,878 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@GATEWAY-SERVER
+
+2020-06-23 13:51:05,878 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@GATEWAY-SERVER
+
+2020-06-23 13:51:05,878 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@GATEWAY-SERVER
+
+2020-06-23 13:51:05,891 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@GATEWAY-SERVER, term=0
+
+2020-06-23 13:51:05,892 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@GATEWAY-SERVER
+
+2020-06-23 13:51:05,892 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@GATEWAY-SERVER, term=0
+
+2020-06-23 13:51:05,892 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@GATEWAY-SERVER
+
+2020-06-23 14:10:35,877 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 14:10:35,877 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 14:10:35,878 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 14:10:35,898 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1, term=0
+
+2020-06-23 14:10:35,898 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 14:10:35,898 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1, term=0
+
+2020-06-23 14:10:35,899 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 14:11:05,878 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 14:11:05,878 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 14:11:05,878 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 14:11:05,895 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2, term=0
+
+2020-06-23 14:11:05,895 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 14:11:05,895 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2, term=0
+
+2020-06-23 14:11:05,896 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 14:12:57,560 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 14:13:24,039 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 14:25:35,877 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 14:25:35,878 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 14:25:35,878 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 14:25:35,905 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1, term=0
+
+2020-06-23 14:25:35,905 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 14:25:35,905 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1, term=0
+
+2020-06-23 14:25:35,906 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 14:26:05,877 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 14:26:05,878 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 14:26:05,878 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 14:26:05,898 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2, term=0
+
+2020-06-23 14:26:05,898 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 14:26:05,898 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2, term=0
+
+2020-06-23 14:26:05,899 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 14:49:26,876 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 14:50:14,181 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 14:55:49,684 INFO raft peers changed: [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 14:55:49,780 INFO initializing Raft sub-system
+
+2020-06-23 14:55:49,780 INFO raft notifier started
+
+2020-06-23 14:55:49,780 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-06-23 14:55:49,791 INFO cache loaded, datum count: 0, current term: 0
+
+2020-06-23 14:55:49,791 INFO finish to load data from disk, cost: 11 ms.
+
+2020-06-23 14:55:49,824 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-06-23 14:55:52,043 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-06-23 14:55:52,112 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-06-23 14:55:54,125 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","term":0,"leaderDueMs":15583,"heartbeatDueMs":4500,"state":"FOLLOWER"}, term: 0
+
+2020-06-23 14:56:01,700 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 14:56:02,778 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 15:06:46,403 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVER2
+
+2020-06-23 15:06:49,759 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVER1
+
+2020-06-23 15:07:57,198 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@GATEWAY-SERVER
+
+2020-06-23 15:08:12,115 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 15:08:12,115 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 15:08:12,116 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 15:08:12,121 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE1, term=1
+
+2020-06-23 15:08:12,121 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 15:08:12,122 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1, term=1
+
+2020-06-23 15:08:12,125 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE1
+
+2020-06-23 15:08:42,113 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 15:08:42,113 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 15:08:42,114 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 15:08:42,130 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVICE2, term=1
+
+2020-06-23 15:08:42,131 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 15:08:42,131 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2, term=1
+
+2020-06-23 15:08:42,132 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVICE2
+
+2020-06-23 16:35:01,519 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":1,"leaderDueMs":15383,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 1
+
+2020-06-23 16:35:01,519 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":2,"leaderDueMs":19703,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 2
+
+2020-06-23 16:35:01,520 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":3,"leaderDueMs":17679,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 3
+
+2020-06-23 16:35:01,521 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":4,"leaderDueMs":18429,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 4
+
+2020-06-23 16:35:01,521 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":5,"leaderDueMs":16180,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 5
+
+2020-06-23 16:35:01,521 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":6,"leaderDueMs":18548,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 6
+
+2020-06-23 16:35:01,521 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":7,"leaderDueMs":15681,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 7
+
+2020-06-23 16:35:01,521 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":8,"leaderDueMs":19895,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 8
+
+2020-06-23 16:35:01,521 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":9,"leaderDueMs":16659,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 9
+
+2020-06-23 16:35:01,521 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":10,"leaderDueMs":16729,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 10
+
+2020-06-23 16:35:01,522 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":11,"leaderDueMs":19318,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 11
+
+2020-06-23 16:35:01,522 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":12,"leaderDueMs":15125,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 12
+
+2020-06-23 16:35:01,522 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":13,"leaderDueMs":19510,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 13
+
+2020-06-23 16:35:01,522 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":14,"leaderDueMs":16354,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 14
+
+2020-06-23 16:35:01,522 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":15,"leaderDueMs":16396,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 15
+
+2020-06-23 16:35:01,522 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":16,"leaderDueMs":19389,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 16
+
+2020-06-23 16:35:01,522 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":17,"leaderDueMs":19426,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 17
+
+2020-06-23 16:35:01,525 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":18,"leaderDueMs":16107,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 18
+
+2020-06-23 16:35:01,525 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":19,"leaderDueMs":15672,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 19
+
+2020-06-23 16:35:01,525 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":20,"leaderDueMs":15232,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 20
+
+2020-06-23 16:35:01,525 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":21,"leaderDueMs":15090,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 21
+
+2020-06-23 16:35:01,525 INFO leader timeout, start voting,leader: {"ip":"192.168.8.184:8848","voteFor":"192.168.8.184:8848","term":22,"leaderDueMs":16988,"heartbeatDueMs":5000,"state":"CANDIDATE"}, term: 22
+
+2020-06-23 16:35:09,269 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVER1
+
+2020-06-23 16:35:09,269 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVER1
+
+2020-06-23 16:35:09,269 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVER1
+
+2020-06-23 16:35:09,281 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVER1, term=23
+
+2020-06-23 16:35:09,281 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVER1
+
+2020-06-23 16:35:09,281 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVER1, term=23
+
+2020-06-23 16:35:09,281 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVER2
+
+2020-06-23 16:35:09,281 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVER1
+
+2020-06-23 16:35:09,281 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVER2
+
+2020-06-23 16:35:09,281 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVER2
+
+2020-06-23 16:35:09,289 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVER2, term=23
+
+2020-06-23 16:35:09,289 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVER2
+
+2020-06-23 16:35:09,289 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVER2, term=23
+
+2020-06-23 16:35:09,289 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVER2
+
+2020-06-23 16:35:09,294 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVER2, term=23
+
+2020-06-23 16:35:09,294 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVER2
+
+2020-06-23 16:35:09,294 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVER2
+
+2020-06-23 16:35:09,294 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@DEMO-SERVER2
+
+2020-06-23 16:35:09,934 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVER2
+
+2020-06-23 16:35:10,402 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@DEMO-SERVER1
+

@@ -1,0 +1,122 @@
+2020-06-25 17:15:28,915 INFO raft peers changed: [Member{address='192.168.198.1:8848'}]
+
+2020-06-25 17:15:28,998 INFO initializing Raft sub-system
+
+2020-06-25 17:15:28,998 INFO raft notifier started
+
+2020-06-25 17:15:28,999 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-06-25 17:15:29,005 INFO cache loaded, datum count: 0, current term: 23
+
+2020-06-25 17:15:29,005 INFO finish to load data from disk, cost: 7 ms.
+
+2020-06-25 17:15:29,023 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-06-25 17:15:30,953 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-06-25 17:15:31,003 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-06-25 17:28:42,789 INFO raft peers changed: [Member{address='192.168.198.1:8848'}]
+
+2020-06-25 17:28:42,869 INFO initializing Raft sub-system
+
+2020-06-25 17:28:42,870 INFO raft notifier started
+
+2020-06-25 17:28:42,870 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2020-06-25 17:28:42,874 INFO cache loaded, datum count: 0, current term: 23
+
+2020-06-25 17:28:42,874 INFO finish to load data from disk, cost: 5 ms.
+
+2020-06-25 17:28:42,893 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-06-25 17:28:44,743 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-06-25 17:28:44,793 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-06-25 17:28:46,114 INFO leader timeout, start voting,leader: {"ip":"192.168.198.1:8848","term":0,"leaderDueMs":18496,"heartbeatDueMs":4500,"state":"FOLLOWER"}, term: 0
+
+2020-06-25 17:30:30,342 INFO raft peers changed: [Member{address='192.168.198.1:8848'}]
+
+2020-06-25 17:30:30,439 INFO initializing Raft sub-system
+
+2020-06-25 17:30:30,439 INFO raft notifier started
+
+2020-06-25 17:30:30,439 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-06-25 17:30:30,446 INFO cache loaded, datum count: 0, current term: 23
+
+2020-06-25 17:30:30,446 INFO finish to load data from disk, cost: 7 ms.
+
+2020-06-25 17:30:30,477 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-06-25 17:30:32,522 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-06-25 17:30:32,575 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-06-25 20:36:24,604 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway-server
+
+2020-06-25 20:44:22,577 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway-server
+
+2020-06-25 20:44:22,577 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway-server
+
+2020-06-25 20:44:22,577 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway-server
+
+2020-06-25 20:44:22,579 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway-server, term=0
+
+2020-06-25 20:44:22,580 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway-server
+
+2020-06-25 20:44:22,580 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway-server, term=0
+
+2020-06-25 20:44:22,583 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway-server
+
+2020-06-25 21:22:55,754 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway-server
+
+2020-06-25 21:23:02,828 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-server1
+
+2020-06-25 21:23:05,042 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-server2
+
+2020-06-25 21:35:22,575 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway-server
+
+2020-06-25 21:35:22,575 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway-server
+
+2020-06-25 21:35:22,575 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway-server
+
+2020-06-25 21:35:22,579 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway-server, term=0
+
+2020-06-25 21:35:22,579 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway-server
+
+2020-06-25 21:35:22,579 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway-server, term=0
+
+2020-06-25 21:35:22,579 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway-server
+
+2020-06-25 21:36:16,117 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway-server
+
+2020-06-25 21:43:52,576 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-server1
+
+2020-06-25 21:43:52,576 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-server1
+
+2020-06-25 21:43:52,576 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-server1
+
+2020-06-25 21:43:52,581 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-server1, term=0
+
+2020-06-25 21:43:52,581 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-server1
+
+2020-06-25 21:43:52,581 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-server1, term=0
+
+2020-06-25 21:43:52,581 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-server2
+
+2020-06-25 21:43:52,581 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-server1
+
+2020-06-25 21:43:52,581 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-server2
+
+2020-06-25 21:43:52,582 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-server2
+
+2020-06-25 21:43:52,584 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-server2, term=0
+
+2020-06-25 21:43:52,584 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-server2
+
+2020-06-25 21:43:52,584 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-server2, term=0
+
+2020-06-25 21:43:52,584 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-server2
+

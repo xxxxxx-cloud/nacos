@@ -1,0 +1,36 @@
+2020-06-23 08:44:46,512 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2020-06-23 08:44:46,529 WARN [serverlist] updated to : [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 08:52:08,158 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2020-06-23 08:52:08,166 WARN [serverlist] updated to : [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 08:55:26,905 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2020-06-23 08:55:26,914 WARN [serverlist] updated to : [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 09:03:32,080 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2020-06-23 09:03:32,090 WARN [serverlist] updated to : [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 09:03:42,252 INFO This node is ready to provide external services
+
+2020-06-23 11:27:42,380 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2020-06-23 11:27:42,388 WARN [serverlist] updated to : [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 11:27:53,015 INFO This node is ready to provide external services
+
+2020-06-23 13:32:13,217 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2020-06-23 13:32:13,224 WARN [serverlist] updated to : [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 13:32:23,371 INFO This node is ready to provide external services
+
+2020-06-23 14:55:49,463 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2020-06-23 14:55:49,471 WARN [serverlist] updated to : [Member{address='192.168.8.184:8848'}]
+
+2020-06-23 14:55:59,430 INFO This node is ready to provide external services
+
