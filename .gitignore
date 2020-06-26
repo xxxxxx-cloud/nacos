@@ -4,4 +4,5 @@ target
 eureka-server.iml
 *.bak
 *.iml
-/log
+*.log
+logs

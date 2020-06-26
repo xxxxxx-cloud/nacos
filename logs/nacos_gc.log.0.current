@@ -1,3 +1,0 @@
-Java HotSpot(TM) Server VM (25.91-b15) for windows-x86 JRE (1.8.0_91-b15), built on May 20 2016 17:30:54 by "java_re" with MS VC++ 10.0 (VS2010)
-Memory: 4k page, physical 16682388k(8691644k free), swap 19172756k(5449476k free)
-CommandLine flags: -XX:GCLogFileSize=104857600 -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=D:/xxxxx/nacos/logs/java_heapdump.hprof -XX:InitialHeapSize=2147483648 -XX:MaxHeapSize=2147483648 -XX:MaxMetaspaceSize=335544320 -XX:MaxNewSize=1073741824 -XX:MetaspaceSize=134217728 -XX:NewSize=1073741824 -XX:NumberOfGCLogFiles=10 -XX:-OmitStackTraceInFastThrow -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+UseGCLogFileRotation -XX:-UseLargePages -XX:-UseLargePagesIndividualAllocation -XX:+UseParallelGC 
