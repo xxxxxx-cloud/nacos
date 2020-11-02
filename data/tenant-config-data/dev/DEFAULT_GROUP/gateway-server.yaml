@@ -7,7 +7,7 @@ spring:
             allowCredentials: true
             allowedOrigins: "*"
             allowedHeaders: "*"
-            allowedMethods:
+            allowedMethods: 
               - GET
               - POST
               - PATCH
